@@ -18,15 +18,15 @@ Projects
 ------
 * Basics-of Computer and programming : 
 
-1 ) mid-term : https://github.com/Armingodiz/Basics-of-Computer-and-programming-mid-term-project
+  1 ) mid-term : https://github.com/Armingodiz/Basics-of-Computer-and-programming-mid-term-project
 
-2 ) final : https://github.com/Armingodiz/Basics-of-Computer-and-programming-final-project
+  2 ) final : https://github.com/Armingodiz/Basics-of-Computer-and-programming-final-project
 
 * Advance Programming : 
 
-1 ) mid-r-term : https://github.com/Armingodiz/Advanced-Programming-mid-term-Projects
+  1 ) mid-r-term : https://github.com/Armingodiz/Advanced-Programming-mid-term-Projects
 
-2 ) final : https://github.com/Armingodiz/Advanced-programming-final-project
+  2 ) final : https://github.com/Armingodiz/Advanced-programming-final-project
 
 
 
