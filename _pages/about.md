@@ -16,17 +16,10 @@ B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran,
 
 Projects
 ------
-* Basics-of Computer and programming : 
-
-  1 ) mid-term : https://github.com/Armingodiz/Basics-of-Computer-and-programming-mid-term-project
-
-  2 ) final : https://github.com/Armingodiz/Basics-of-Computer-and-programming-final-project
-
-* Advance Programming : 
-
-  1 ) mid-term : https://github.com/Armingodiz/Advanced-Programming-mid-term-Projects
-
-  2 ) final : https://github.com/Armingodiz/Advanced-programming-final-project
+* [Basics-of Computer and programming -mid-term](https://github.com/Armingodiz/Basics-of-Computer-and-programming-mid-term-project)
+* [Basics-of Computer and programming -final](https://github.com/Armingodiz/Basics-of-Computer-and-programming-final-project)
+* [Advanced Programming-mid-term](https://github.com/Armingodiz/Advanced-Programming-mid-term-Projects)
+* [Advanced Programming-final](https://github.com/Armingodiz/Advanced-programming-final-project)
 
 
 
