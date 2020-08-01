@@ -24,7 +24,7 @@ Projects
 
 * Advance Programming : 
 
-  1 ) mid-r-term : https://github.com/Armingodiz/Advanced-Programming-mid-term-Projects
+  1 ) mid-term : https://github.com/Armingodiz/Advanced-Programming-mid-term-Projects
 
   2 ) final : https://github.com/Armingodiz/Advanced-programming-final-project
 
