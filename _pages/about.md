@@ -39,12 +39,7 @@ Technical Skills
 Events participated in 
 ------
 * Participated in Amirkabir Programming League (Spring 2019)
-* Participated in AmirKabir Artificial Intelligence Summer Summit (Summer 2020) 
-
-** workshops : 
-                    1 ) Adventures with Artificial Intellegince & 
-                    2 ) Dive into Deep Learning &  
-                    3 ) Introduction to Fundamentals , Applications and Libraries of Adversial Attacks
+* Participated in AmirKabir Artificial Intelligence Summer Summit (Summer 2020) : { Adventures with Artificial Intellegince & Dive into Deep Learning &  Introduction   to Fundamentals , Applications and Libraries of Adversial Attacks }
 * Participated in AmirKabir Linux festival (Winter 2019)
 
 
