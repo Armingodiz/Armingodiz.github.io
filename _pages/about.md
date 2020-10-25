@@ -41,6 +41,7 @@ Events participated in
 * Participated in Amirkabir Programming League (Spring 2019)
 * Participated in AmirKabir Artificial Intelligence Summer Summit (Summer 2020) : { Adventures with Artificial Intellegince & Dive into Deep Learning &  Introduction   to Fundamentals , Applications and Libraries of Adversial Attacks }
 * Participated in AmirKabir Linux festival (Winter 2019)
+* Amirkabir Artificial Intelligence Summer Summit of 2020
 
 
 
