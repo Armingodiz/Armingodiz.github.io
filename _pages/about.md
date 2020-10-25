@@ -29,7 +29,10 @@ Projects
 
 Technical Skills
 -----
-* Programming Development: C, Java, Python
+* Programming Development: C, Java, Python, Golang
+* familiar with css&html
+* familiar with data science and AI (using python)
+
 
 
 
