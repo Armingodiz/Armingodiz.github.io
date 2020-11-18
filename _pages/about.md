@@ -16,24 +16,20 @@ B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran,
 
 Projects
 ------
-* [Basics-of Computer and programming](https://github.com/Armingodiz/Basics-of-Computer-and-programming)
-* [Advanced Programming-mid-term](https://github.com/Armingodiz/Advanced-Programming-mid-term-Projects)
-* [Advanced Programming-project](https://github.com/Armingodiz/Advanced-programming-final-project)
-* [Some mini projects with golang ](https://github.com/Armingodiz/go-stuff)
-* [Some mini projects with python ](https://github.com/Armingodiz/python-stuff)
-
-
-
+* [golang projects ](https://github.com/Armingodiz/GoWorld)
+* [Advanced Programming-projects](https://github.com/Armingodiz/Advanced-programming-projects)
+* [Basics-of Computer and programming projects](https://github.com/Armingodiz/Basics-of-Computer-and-programming)
+* [python projects ](https://github.com/Armingodiz/python-stuff)
 
 
 
 Technical Skills
 -----
 * Programming Development:  Golang ,Python ,C ,Java
-* familiar with css&html
-* familiar with data science and AI (using python)
 
-
+Teaching Assistant
+------
+* Basics-of Computer and programming workshop (fall 2020)
 
 
 Events participated in 
@@ -47,6 +43,7 @@ Events participated in
 
 Interests
 ------
+* Golang
 * Artificial intelligence 
 * Web Applications 
 * Data science 
