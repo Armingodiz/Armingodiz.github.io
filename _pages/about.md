@@ -29,7 +29,7 @@ Technical Skills
 
 Teaching Assistant
 ------
-* Basics-of Computer and programming workshop (fall 2020)
+* Basics-of Computer and programming (fall 2020)
 
 
 Events participated in 
