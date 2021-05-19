@@ -10,7 +10,7 @@ redirect_from:
 
 About me 
 ------
-looking forward to expand my knowledge and exprience.
+looking forward to expand my knowledge and experience.
 
 
 Education
