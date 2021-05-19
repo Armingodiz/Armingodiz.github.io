@@ -52,7 +52,7 @@ Projects for expanding my knowledge
 Technical Skills
 -----
 * Programming Development:  Golang ,Python ,C ,c++ ,Java
-* Bief knowledge in : Docker, concurrency concepts (espisally in golang), blockchain and cryptocurrency 
+* Bief knowledge in : Docker, concurrency concepts (espisally in golang), blockchain and cryptocurrency, microservice architecture, design patterns
 * familiar with databases such as mysql, redis, mongodb
 
 Teaching Assistant
