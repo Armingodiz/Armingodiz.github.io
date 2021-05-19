@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Armin Goodarzi / Rsume"
+title                    : "Armin Goodarzi / Resume"
 title_separator          : "-"
 name                     : &name "Armin Goodarzi"
 description              : &description "personal description"
