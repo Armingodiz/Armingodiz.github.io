@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+About me 
+------
+looking forward to expand my knowledge and exprience.
+
 
 Education
 ------
@@ -48,7 +52,8 @@ Projects for expanding my knowledge
 Technical Skills
 -----
 * Programming Development:  Golang ,Python ,C ,c++ ,Java
-* Bief knowledge in : data structure and algorithms ,database 
+* Bief knowledge in : Docker, concurrency concepts (espisally in golang), blockchain and cryptocurrency 
+* familiar with databases such as mysql, redis, mongodb
 
 Teaching Assistant
 ------
